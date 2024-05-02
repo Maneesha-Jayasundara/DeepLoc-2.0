@@ -54,3 +54,4 @@ If you found this useful please consider citing
     eprint = {https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkac278/43515314/gkac278.pdf},
 }
 ```
+"# DeepLoc-2.0" 
